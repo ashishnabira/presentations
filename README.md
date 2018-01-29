@@ -1,41 +1,41 @@
 # Business Plan
 
-__1. Vibrant - Vibhav Kapoor__
+Vibrant - Vibhav Kapoor 75
 
-2. FABG - Shekar D
+Fixed Deposits  35
 
-3. eSecurity - Jaychandran
+Rents from 2 flats  35
 
-4. Tashee Linux - Manoj Garg
+FABG - Shekar D  8
 
-5. Jonetsu - Sudarshan
+eSecurity - Jaychandran 5
 
-6. Cloud Yuga - Neependra Khare
+Tashee Linux - Manoj Garg
 
-7. Opensource Training
+Jonetsu - Sudarshan 5
 
-8. Go Open Consulting/Training
+Cloud Yuga - Neependra Khare
 
-9. Keen and Able
+Opensource Training
 
-10. Fostering Linux
+Go Open Consulting/Training
 
-11. Vijay Raghavan
+Keen and Able
 
-12. Amarjeet Manchanda
+Fostering Linux
 
-13. Sukanta Basak
+Vijay Raghavan
 
-14. Partner List from Redhat and HDS 
+Amarjeet Manchanda
 
-15. Swapnil Jain 
+Sukanta Basak
 
-16. Cloud Enabled - Anil bidari
+Partner List from Redhat and HDS 
 
-17. RR Cycles
+Swapnil Jain 
 
-18. Fixed Deposits
+Cloud Enabled - Anil bidari
 
-19. Rents from 2 flats
+RR Cycles
 
-20. Katol Assets
+Katol Assets
