@@ -1,6 +1,6 @@
 # Business Plan
 
-__1. Vibrant - Vibhav Kapoor
+__1. Vibrant - Vibhav Kapoor__
 2. FABG - Shekar D
 3. eSecurity - Jaychandran
 4. Tashee Linux - Manoj Garg
